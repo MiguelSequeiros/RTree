@@ -1,0 +1,1 @@
+g++ final.cpp -std=c++11 -lglut -lGL -o final.out
